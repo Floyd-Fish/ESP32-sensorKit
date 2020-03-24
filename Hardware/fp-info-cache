@@ -1,4 +1,4 @@
-17204802746685257
+17212725534377599
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -503,6 +503,13 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
+Button_Switch_SMD
+9x3.5x3.5mm_3pins-2gear_slide_switch
+
+
+0
+3
+3
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -46248,6 +46255,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Display_SMD
+SSD1306-12864
+
+
+0
+30
+30
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -51556,6 +51570,20 @@ Yellow 5381 Series LED
 2
 Logo
 creeper
+
+
+0
+0
+0
+Logo
+emoe
+
+
+0
+0
+0
+Logo
+texas_instruments
 
 
 0
@@ -69516,6 +69544,13 @@ SHT1x
 0
 8
 8
+Sensor
+TSL2591_DFN6
+
+
+0
+6
+6
 Sensor_Audio
 Infineon_PG-LLGA-5-1
 Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/
